@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: Arvo, serif;
+}
+
+h1 {
+    font-family: Bonheur Royale;
+    color: #fcda7e;
+}
+
+h2 {
+    color: #fcda7e;
+}
+
+article img {
+    max-height: 3rem;
+    width: auto;
+}
