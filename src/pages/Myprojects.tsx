@@ -46,7 +46,7 @@ function Myprojects() {
             projectDescription: "Tout simplement ce site hébergé sur lequel vous naviguez actuellement. \n\n Il combine une architecture Router permise par React, algorithmes et balisage TSX, mise en forme Tailwind et requêtes API pour illustrer concrètement les compétences que j'ai acquises.",
             projectVideo: "/videos/Porfolio.gif",
             projectStack: "React (TSX) - Tailwind",
-            projectGit: "https://github.com/Guillaume-Z/Portfolio"
+            projectGit: "https://github.com/Guillaume-Z/Portfolio-website"
         }
     ]
 
